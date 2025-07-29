@@ -14,9 +14,9 @@ else:
 
 # New row data
 new_row = {
-    "Name": "David",
-    "Account Number": 456789,
-    "Balance": 4200.0
+    "Name": "mario",
+    "Account Number": 456710,
+    "Balance": 4201.0
 }
 
 # Append new row to DataFrame
